@@ -26,7 +26,7 @@
 ## Quick Start
 
 ```shell
-$ git clone 
+$ git clone https://github.com/0129408/Capstone.git
 $ cd capstone
 $ npm install
 ```
