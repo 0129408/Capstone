@@ -5,7 +5,7 @@
 
 
   <p align="center"> 
-    Little Lemon Restaurant, a family run Mediterranean restaurant located in Chicago, Illinois. Please come and enjoy our wide selection of authentic Mediterranean cuisine!
+    Little Lemon Restaurant, A Little Lemon Restaurant website developed by me.
   </p>
   
   
